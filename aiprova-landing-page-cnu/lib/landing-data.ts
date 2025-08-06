@@ -3,7 +3,7 @@
 export const CONCURSO_NOME = "Bloco 3"
 export const FLASHCARD_COUNT = "3.500"
 export const FLASHCARD_COUNT_TITLE = "4.746"
-export const HERO_SUBTITLE = "Desenvolvimento Socieconômico. Serão 285 vagas e remunerações iniciais de até R$ 16 mil."
+export const HERO_SUBTITLE = "Ciências, Dados e Tecnologia. São 211 vagas com salários que podem alcançar os R$ 16 mil."
 
 export const materias = [
   {
